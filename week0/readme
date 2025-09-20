@@ -1,4 +1,5 @@
-Task 0 : summary pdf
+Task 0 : summary pdf 
+
 Week-0 Video Summary (RISC-V Tapeout Program) 
 
 SoC Development Flow
@@ -15,6 +16,7 @@ Operates at 100–130 MHz, programmed/tested in C.
 Applications: Wearables (iWatch), Arduino boards, TV panels, AC/home appliances.
 
 Task 1 : Images
+
 Iverilog installation done
 Yosys installation done
 Gtkwave installation done
