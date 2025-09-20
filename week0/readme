@@ -1,4 +1,5 @@
-Week-0 Video Summary (RISC-V Tapeout Program)
+Task 0 : summary pdf
+Week-0 Video Summary (RISC-V Tapeout Program) 
 
 SoC Development Flow
 Specification (C Model) → Write system requirements in C, validate with C testbench.
@@ -12,3 +13,10 @@ Microcontroller
 Small SoC with processor + peripherals.
 Operates at 100–130 MHz, programmed/tested in C.
 Applications: Wearables (iWatch), Arduino boards, TV panels, AC/home appliances.
+
+Task 1 : Images
+Iverilog installation done
+Yosys installation done
+Gtkwave installation done
+ngspice installation done
+magic installation done
