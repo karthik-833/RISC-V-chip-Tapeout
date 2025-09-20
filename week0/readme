@@ -1,1 +1,14 @@
+Week-0 Video Summary (RISC-V Tapeout Program)
 
+SoC Development Flow
+Specification (C Model) → Write system requirements in C, validate with C testbench.
+RTL Design → Convert to Verilog/VHDL; include processor core + peripherals.
+Synthesis → RTL → gate-level netlist; generate macros; use analog IPs.
+SoC Integration → Combine CPU, peripherals, macros, analog IPs; verify via buses/GPIOs.
+Back-End (RTL → GDS) → Floorplan, placement, clock tree, routing; add hard/soft macros.
+Final Steps → DRC/LVS checks; generate GDSII → tapeout.
+
+Microcontroller
+Small SoC with processor + peripherals.
+Operates at 100–130 MHz, programmed/tested in C.
+Applications: Wearables (iWatch), Arduino boards, TV panels, AC/home appliances.
